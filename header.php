@@ -22,7 +22,7 @@
   <header id="masthead" class="site-header" role="banner">
     <div class="container">
       <div class="logo">
-        <a href="<?php echo home_url(); ?>"><img src="<?php bloginfo('template_url'); ?>/assets/img/content/forbes-logo-header.png"><span class="advisor">Advisor</span></a>
+        <a href="<?php echo home_url(); ?>"><img src="<?php bloginfo('template_url'); ?>/assets/img/content/forbes-logo-header.png"></a>
       </div>
 
       <div class="menu-wrap clearfix">

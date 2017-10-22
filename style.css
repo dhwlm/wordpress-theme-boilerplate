@@ -1,6 +1,6 @@
 /*
-Theme Name: forbes-advisor
-Description: Forbes Advisor Theme for Wordpress
+Theme Name:
+Description:
 Version: 1.0
 Author: Dhawal M
 */
@@ -118,7 +118,7 @@ p{
   border: none !important;
 }
 
-.nomar{
+.no-mar{
   margin: 0 !important;
 }
 
@@ -144,70 +144,8 @@ p{
 .btn:hover{background-color: #022b6c; color: #FFF; cursor: pointer;-webkit-box-shadow:0px 8px 9px -3px rgba(0,0,0,0.5); box-shadow:0px 8px 9px -6px rgba(0,0,0,0.5); }
 /*.btn.btn-block {display: block; text-align: center;}*/
 
-select { -webkit-appearance: none; -moz-appearance: none; -ms-appearance: none;  appearance: none;  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAHCAYAAAA8sqwkAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTMyIDc5LjE1OTI4NCwgMjAxNi8wNC8xOS0xMzoxMzo0MCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUuNSAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NDg4MDY3QzlBQUFBMTFFNzhEM0M4OEJBMDc4OTJDMUMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NDg4MDY3Q0FBQUFBMTFFNzhEM0M4OEJBMDc4OTJDMUMiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo0ODgwNjdDN0FBQUExMUU3OEQzQzg4QkEwNzg5MkMxQyIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo0ODgwNjdDOEFBQUExMUU3OEQzQzg4QkEwNzg5MkMxQyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PsZOF4sAAADhSURBVHjaYvi541jI14Lulf9//Wb7//8/A1YMlAOpAall+bPvpN+/A0fCvuX+4OGaWBbMwM72gwEZ/PzF8a2ga+3/k2e9/rKz/mT4/+cv87fKSfM/G/j//5rUsOvftx9ccJOB7C9J9btAciA1ILUQiX//GL/VTZ/xxTDg/5fY6gP/vn7nAeEvcdUHwIqBciA1ILVgAgz+/2f83jZn4t81W3MZtbWOAgUYGK7dsGYK9p7MWZWcz8DI+B+qDtWD37sWdn0xCPgPMhnERpdH2IAEvk9Y2sLIyMjAkR9Vgy4HEGAAyLC0AhS9wlMAAAAASUVORK5CYII=) no-repeat 96% 1em #fbfbfb; height: 39px; padding: 0 20px; color: #646464; border: solid 1px #000; font-size: 16px;  -webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;}
-select.select-block{ display: block; width: 100%;}
-
-.section-bg{background-color: #fbfbfb; }
-
-.fa-heading{font-weight: 700;color: #000; font-size: 30px; line-height: 40px; padding-bottom: 10px; position: relative; margin-bottom: 10px;}
-.fa-heading::after{content: ""; position: absolute; bottom: 0; left: 0; width: 100px; height: 3px;background-color: #003891; }
-.fa-heading.center{text-align: center;}
-.fa-heading.center::after{left: 50%; transform: translateX(-50%);}
-
-.grid-wrap{ }
-.grid-wrap .grid-block{ border: 1px solid #e5e5e5;  padding: 32px;  min-height: 240px; -webkit-transition: all 0.35s ease;-moz-transition: all 0.35s ease;-ms-transition: all 0.35s ease;-o-transition: all 0.35s ease;transition: all 0.35s ease;}
-.grid-wrap .grid-block:hover{ -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5); box-shadow: 0 0 10px 0 rgba(0, 0, 0, .2);}
-
-.r-bord{border-right: solid 1px #e5e5e5;}
-.b-bord{border-bottom: solid 1px #e5e5e5;}
 
 /**
  * 2.0 - Header
  *
  */
-
-.site-header{background: #333; min-height: 55px;}
-.site-header .logo {float: left; margin: 10px 0;}
-.site-header .logo a img{width: 77px;}
-.site-header .logo a span{color: #d00e22; font-size: 25px; margin-left: 3px; vertical-align: middle; letter-spacing: -1px;}
-
-.site-header .menu-wrap{float: right;}
-.site-header .top-menu ul{ }
-.site-header .top-menu li{display: inline-block; height: 55px; line-height: 55px; }
-.site-header .top-menu a{color: #FFF; padding: 0 15px; font-size: 16px;}
-.site-header .top-menu a:hover{color: #069eec; }
-
-/**
- * 3.0 - Homepage
- *
- */
-.main-banner{min-height: 350px;position: relative; z-index: 0;}
-.main-banner::after{position: absolute; content: "";background: url(./assets/img/layout/Illustration_red.png) right center no-repeat; background-size: auto 100%; left: 0; right: 0; top: 0; bottom: 0; z-index: -1; opacity: 0.7;}
-.main-banner h1{font-size: 50px; line-height: 68px; font-weight: 700; color: #000; /*background: rgba(251, 251, 251, 0.85);*/ }
-.main-banner h1 span{color: #d00e22; display: block;}
-
-.category-grid {border: solid 1px #e5e5e5; overflow: hidden;}
-.category-grid .grid-block{width: 33.33%; float: left; padding: 20px 0;}
-.category-grid .grid-block a{ text-align: center;}
-.category-grid .grid-block img{ display: block; margin: 0 auto; height: 70px;}
-
-
-/**
- * 3.0 - Footer
- *
- */
-
-.site-footer .wrap {padding: 10px 10px 42px 10px; background: #ebebeb;  clear: both;}
-
-.copyright-wrapper{max-width: 1200px; margin:0 auto;}
-.copyright{text-align: center;}
-.copyright {overflow: hidden;   width: 100%;}
-.copyright span { color: #000; font-size: 10px;  margin: 25px 0 25px 0; font-family: 'Open Sans', sans-serif;}
-.copyright ul li {display: inline; margin-right: 9px; font-size: 9px;    line-height: 11px;}
-.copyright ul li a {    color: #000;    font-size: 10px;    padding-right: 9px;    font-family: 'Open Sans', sans-serif;    }
-.copyright ul li:last-child {    border-right: none;  }
-
-.forbes-footer-logo{width: 105px; margin: 15px auto; }
-.forbes-footer-logo img{width: 100%;}
-
-.footer-separator{border-bottom: 1px solid #d4d4d4; margin:8px 0 2px 0;}
