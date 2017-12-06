@@ -58,7 +58,7 @@ This will create a folder with 'your-theme-name' and the boilerplate files insid
 ### Post Installing
 
 Certain Folders & files that are required are theme specific.
-Please follow this checklist this checklist to complete the basic theme folder
+Please follow this checklist to complete the basic theme folder
 
   * Add/include *screenshot.png* inside the theme folder (this will give the preview of the theme in the admin panel)
   * Create **template-parts/** folder (add all the reusable template parts inside this folder)
