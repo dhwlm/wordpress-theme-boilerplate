@@ -1,7 +1,6 @@
-![Logo of the project](https://raw.githubusercontent.com/wearehive/project-guidelines/master/wordpress-boilerplate-theme.jpg)
+![Logo of the project](https://github.com/dhwlm/wordpress-theme-boilerplate/blob/master/assets/img/content/wordpress-boilerplate-theme.jpg?raw=true)
 
 # Wordpress Theme Boilerplate
-> Additional information or tag line
 
 I found myself writing the same starter wordpress theme time and time again, so I decided to create this simple boilerplate to help reduce the time required when starting a new wordpress theme. This will give you the basic files and structure of the theme.
 
@@ -42,11 +41,17 @@ This will create a folder with 'your-theme-name' and the boilerplate files insid
 ### File Usage/Explaination
 
 admin.css: write admin panel/login screen specific css
+
 theme.css: this file contains basic 12 grid layout by bootstrap and some classes like text-center, clearfix, xs,ms,md,lg-hidden etc
+
 logo-customizer.php: adds option in wordpress customizer to upload logo
+
 limit-login-attempts.php: limits login attempts after 3 failed logins and blocks the user for 5mins. Time can be changed in this file.
+
 rebranding.php: contains code to rebrand the admin panel and include admin.css
+
 remove-junk.php: removes junk css, js etc files which wordpress adds by default. Also removes jquery migrate and disable admin bar on the frontpage when logged in
+
 style.css: contains basic css and reset and global elements styles eg. .btn etc
 
 
